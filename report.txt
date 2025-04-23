@@ -1,0 +1,4 @@
+Wait times tend to be higher when the simulation length is greater.
+There is a seemingly exponentialish increase in wait times as you reduce the number of checkers.
+As I have the simulation set right now, the difference between 3 checkers and 4 checkers is HUGE.
+Playing with computer simulations is fun.
